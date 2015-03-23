@@ -1,17 +1,17 @@
 {
   "name": "connect-elasticsearch",
   "version": "0.0.1",
-  "description": "Elasticsearch session store for Connect",
+  "description": "ElasticSearch session store for Connect",
   "keywords": [
     "elasticsearch",
     "connection",
     "session",
     "store"
   ],
-  "author": "Marco Rondini me@marcorondini.eu",
+  "author": "Felix Wolff felix.stefan.wolff@gmail.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flockers/connect-elasticsearch"
+    "url": "https://github.com/flxw/connect-elasticsearch"
   },
   "dependencies": {
     "elasticsearch": ">=1.0.3"
@@ -23,12 +23,9 @@
     "lib": "./lib"
   },
   "bugs": {
-    "url": "https://github.com/flockers/connect-elasticsearch/issues"
+    "url": "https://github.com/flxw/connect-elasticsearch/issues"
   },
-  "homepage": "https://github.com/flockers/connect-elasticsearch",
+  "homepage": "https://github.com/flxw/connect-elasticsearch",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "license": "GPL"
 }
